@@ -2,6 +2,23 @@
 
 Voca is a modern Android application designed to help users master sophisticated English vocabulary. By leveraging **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** principles, Voca provides contextual learning experiences that go beyond simple definitions.
 
+# Screenshots
+
+## Home Screen
+
+![Home](screenshots/home.png)
+
+## My Progress Screen
+
+![Quiz](screenshots/myProgress.png)
+
+## History Screen
+
+![Results](screenshots/history.png)
+## Word Detail Screen
+
+![Results](screenshots/wordDetail.png)
+
 ## 🛠 Tech Stack
 Voca is built with the latest industry standards to ensure a fast, reactive, and maintainable experience:
 
