@@ -4,20 +4,7 @@ Voca is a modern Android application designed to help users master sophisticated
 
 # Screenshots
 
-## Home Screen
-
-![Home](screenshots/home.png)
-
-## My Progress Screen
-
-![Quiz](screenshots/myProgress.png)
-
-## History Screen
-
-![Results](screenshots/history.png)
-## Word Detail Screen
-
-![Results](screenshots/wordDetail.png)
+![Voca](screenshots/Voca.png)
 
 ## 🛠 Tech Stack
 Voca is built with the latest industry standards to ensure a fast, reactive, and maintainable experience:
