@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit
 
 class WordRepository {
 
-    private val apiKey = "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"
+    private val apiKey = "YOUR_API_KEY_HERE"
 
     private val groqApi: OpenAIApi by lazy {
         val client = OkHttpClient.Builder()
